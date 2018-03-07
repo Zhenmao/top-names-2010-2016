@@ -13,10 +13,12 @@ h1 {
 	font-family: "Bungee", sans-serif;
 }
 
-.boy-bar {
+.boy-bar,
+.boy-count {
 	fill: rgb(153, 204, 255);
 }
 
-.girl-bar {
+.girl-bar,
+.girl-count {
 	fill: rgb(255, 192, 203);
 }
